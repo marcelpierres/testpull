@@ -1,0 +1,21 @@
+{
+  "name": "testpull",
+  "version": "1.0.0",
+  "description": "This is designed to demonstrate the ability to auto pull from GIT to our VM Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcelpierres/testpull.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcelpierres/testpull/issues"
+  },
+  "homepage": "https://github.com/marcelpierres/testpull#readme"
+}

@@ -1,3 +1,3 @@
 // index.js
 setInterval(() => {
-console.log("Hello! The Node.js app is running."); }, 10000);
+console.log("Hello! Im running."); }, 10000);
